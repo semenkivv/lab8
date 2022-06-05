@@ -1,4 +1,4 @@
-package com.bogdan;
+package com.company;
 
 
 //Прямоугольный треугольник, наследованый от обычного

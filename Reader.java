@@ -1,4 +1,4 @@
-package com.bogdan;
+package com.company;
 
 import java.io.*;
 import java.nio.file.InvalidPathException;
